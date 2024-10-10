@@ -25,9 +25,3 @@ Provide instructions on how to use the system here.
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you would like to contribute.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-- Thanks to the course instructors and peers for their support.
